@@ -25,7 +25,7 @@ El **JUEGO DE PUNTERÍA** se ha desarrollado en Java utilizando la biblioteca Sw
 
 La configuración del juego te permite ajustar el número de rondas. Por defecto, el juego se configura para 10 rondas. Sin embargo, puedes incrementar o disminuir el número de rondas utilizando los botones "+" y "-".
 
-![](images/configuracion.jpg)
+![](images/config.jpg)
 
 ## Historial de partidas
 
